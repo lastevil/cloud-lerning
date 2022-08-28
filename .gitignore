@@ -1,0 +1,9 @@
+# Project exclude paths
+/cloud-common/target/
+/config-server/target/
+/discovery-service/target/
+/front-service/target/
+/gateway-service/target/
+/greeting-service/target/
+/product-service/target/
+/slow-service/target/
